@@ -1,0 +1,4 @@
+lazysess
+========
+
+Lazy PHP sessions
