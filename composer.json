@@ -1,0 +1,20 @@
+{
+    "name": "serjick/lazysess",
+    "keywords": ["php", "session"],
+    "type": "library",
+    "license": "BSD-3",
+    "require": {
+        "php": ">=5.3"
+    },
+    "authors": [
+        {
+            "name": "Sergey Shiyanov"
+        }
+    ],
+    "autoload": {
+        "psr-0" : {
+            "Lazysess\\" : "classes/",
+            "Lazysess\\Tests\\" : "test/"
+        }
+    }
+}
